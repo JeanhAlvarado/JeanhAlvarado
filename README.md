@@ -10,7 +10,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JeanhAlvarado/azure-network-protocols)
 
 - <b>Linux Password Reset in a VirtualBox VM</b>
-  - [How to Reset Password for Linux on VirtualBox](https://github.com/JeanhAlvarado/post-install-config)
+  - [How to Reset Password for Linux on VirtualBox](https://github.com/JeanhAlvarado/linux-password-reset-vm)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
