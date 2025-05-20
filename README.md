@@ -10,7 +10,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/JeanhAlvarado/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JeanhAlvarado/azure-network-protocols)
 
-- <b>Linux Password Reset VM</b>
+- <b>Linux Password Reset in a VirtualBox VM</b>
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
